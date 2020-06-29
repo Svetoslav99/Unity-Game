@@ -1,4 +1,3 @@
 # Unity-Game
 DodgeBall
-
-Unzip the Libraby.zip before test
+Extract here the Libraby.rar before test
